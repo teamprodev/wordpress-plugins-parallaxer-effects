@@ -1,0 +1,60 @@
+
+
+.setting{
+    margin-top: 15px;
+}
+.setting .setting-label{
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.setting.setting-medium{
+    max-width: 350px;
+}
+
+.setting.setting-medium .setting-field{
+    width: 100%;
+    margin:0;
+}
+
+/*===== S A V E   C O N F I R M E R */
+.saveconfirmer {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  text-align: center;
+  width: 180px;
+  padding: 20px 20px 10px 20px;
+  height: 30px;
+  margin-left: -100px;
+  margin-top: -25px;
+  box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.5);
+  background: #d2ff52;
+  background: -moz-linear-gradient(top, #d2ff52 0%, #91e842 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d2ff52), color-stop(100%, #91e842));
+  background: -webkit-linear-gradient(top, #d2ff52 0%, #91e842 100%);
+  background: -o-linear-gradient(top, #d2ff52 0%, #91e842 100%);
+  background: -ms-linear-gradient(top, #d2ff52 0%, #91e842 100%);
+  background: linear-gradient(top, #d2ff52 0%, #91e842 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d2ff52', endColorstr='#91e842',GradientType=0 );
+  color: #111; }
+
+/*==== builder */
+.wp-admin .wp-editor-wrap.builder-active .switch-builder {
+  background: none repeat scroll 0 0 #F7FCFE;
+  border-color: #D1E5EE #D1E5EE #F7FCFE; }
+
+.wp-admin .wp-editor-wrap.builder-active #content {
+  display: none; }
+
+.wp-admin .wp-editor-wrap.builder-active #wp-content-editor-container {
+  display: none; }
+
+
+body.settings_page_dzslay_mainoptions .sidenote{
+    color: #777777;
+}
+
+body.toplevel_page_dzsprx_mainoptions .sidenote{
+    color: #6a6a6a;
+    margin-top : 13px;
+}

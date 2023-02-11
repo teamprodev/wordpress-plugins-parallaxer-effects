@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../..">
+      <excludeFolder url="file://$MODULE_DIR$/../buddypress" />
+      <excludeFolder url="file://$MODULE_DIR$/../comment-rating-field-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/../cornerstone" />
+      <excludeFolder url="file://$MODULE_DIR$/../directory_table" />
+      <excludeFolder url="file://$MODULE_DIR$/../display-all-image-sizes" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-contentboxes" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-facebookloginbox" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-parallax-showcase" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-restaurantmenu" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-tooltip" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-videogallery" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-videogallery-360" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-videoportal" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-wootable" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-zoomsounds" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-zoomsounds copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-zoomsounds-portal" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-zoomtabsandaccordions" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-zoomtimeline" />
+      <excludeFolder url="file://$MODULE_DIR$/../dzs-zoomtimeline-mode-3dslider" />
+      <excludeFolder url="file://$MODULE_DIR$/../gotmls" />
+      <excludeFolder url="file://$MODULE_DIR$/../js_composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../regenerate-thumbnails" />
+      <excludeFolder url="file://$MODULE_DIR$/../ultimate-member" />
+      <excludeFolder url="file://$MODULE_DIR$/../user-role-editor" />
+      <excludeFolder url="file://$MODULE_DIR$/../woocommerce" />
+      <excludeFolder url="file://$MODULE_DIR$/../woocommerce-gateway-stripe" />
+      <excludeFolder url="file://$MODULE_DIR$/../wordpress-importer" />
+      <excludeFolder url="file://$MODULE_DIR$/../../themes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
